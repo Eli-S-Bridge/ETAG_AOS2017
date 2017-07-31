@@ -6,4 +6,6 @@ This repository contains:
   2) A board reference for using the Arduino app with the circuit board.
   3) Arduino code to install on the circuit board
 
-   
+Other Resources:
+
+YouTube video demonstration: https://www.youtube.com/watch?v=-Nv7rSirzx8
