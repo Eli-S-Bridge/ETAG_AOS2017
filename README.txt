@@ -6,6 +6,10 @@ This repository contains:
   2) A board reference for using the Arduino app with the circuit board.
   3) Arduino code to install on the circuit board
 
+SOFTWARE:
+
+See the setup manual.
+
 HARDWARE:
 
 You can power the board from your USB port or use a 5V battery. 6V batteries seem to work OK too. We’ve tested 4AA batteries in series (which give ~6V). You can power the reader from the USB port or the push-in connectors. Check the + and - labels on the board before connecting the battery leads. The large switch on the circuit board alternates between power sources. If you have both USB and a battery connected, you will not really be able to turn the device off (but you can always use the reset button).
